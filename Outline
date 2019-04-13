@@ -1,0 +1,16 @@
+Outline for Knitting Conversion Program
+
+Dictionary for conversion
+  Key:Value = Knitting Stitch:Chart Graphic
+  Standard knitting abbreviations taken from Craft Yarn Council
+  https://www.craftyarncouncil.com/standards/knitting-abbreviations
+  Chart Graphics there are standard Knit Chart Symbols found here:
+  https://www.craftyarncouncil.com/standards/knit-chart-symbols  Unsure how to code symbols as values.  May have to use ASCII values if I can't figure this out. 
+  
+  Dictionary could be hard coded into program or loaded from file.  Loading from file would make program more universal. Could be applied to other crafts or even other translations. 
+ 
+ 
+ Use switch type statement to allow 3 options for  input of knitting abbreviations.  
+ 1. Manual Entry  - Separated by commas.  
+ 2. From File - Allow user to enter filename 
+ 3. From file - have at least two files already available in program from popular knitting patterns. 
