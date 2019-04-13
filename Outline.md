@@ -5,26 +5,28 @@ This program will focus on lace knitting, (Cables, Brioche, colorwork etc are ou
 I think that my final program will be missing a lot of functionality that would make it actually usable for anyone above a very beginner lace knitter.
 
 A Key of abbreviations and symbols will print at the top of the program.
-Abbreviations used: 
-k = Knit = 
-kfb = knit 1 into front and back of a stitch
-ksp = 	knit 1 stitch, slip this stitch from right needle to left needle, pass second stitch on left needle over first stitch and off left needle; return stitch to right needle; single right-leaning decrease
-k2tog = knit 2 stitches together
-M1 = make one stitch knitwise
-M1p = Make one stitch purlwise
-p = purl
-pfb = purl into front and back
-p2tog = purl two together
-psso = pass slipped stitch over
-p2sso = pass 2 slipped stitches over
-SKP = slip 1 knitwise, knit 1, pass slip stitch over knit stich
-SK2P = slip 1 knitwise, knit 2 together, pass slipt titch over knit 2 together
-sl = slip
-sl1k = slip 1 knitwise
-sl1p = slip 1 purlwise
-ssk = slip 2 stiches knitwise, knit together through back loops
-ssp = slip 2 stitches knitwise, return 2 stitches to left needle, purl together though back loops
-yo = yarn over
+
+Abbreviation | Description | Symbol
+-------------|-------------|-------
+k | Knit | 
+kfb | knit 1 into front and back of a stitch |
+ksp |	knit 1 stitch, slip this stitch from right needle to left needle, pass second stitch on left needle over first stitch and off left needle; return stitch to right needle |
+k2tog | knit 2 stitches together |
+M1 | make one stitch knitwise |
+M1p | Make one stitch purlwise |
+p | purl |
+pfb | purl into front and back |
+p2tog | purl two together |
+psso | pass slipped stitch over |
+p2sso | pass 2 slipped stitches over |
+SKP | slip 1 knitwise, knit 1, pass slip stitch over knit stich |
+SK2P | slip 1 knitwise, knit 2 together, pass slipt titch over knit 2 together |
+sl | slip |
+sl1k | slip 1 knitwise |
+sl1p | slip 1 purlwise |
+ssk | slip 2 stiches knitwise, knit together through back loops |
+ssp | slip 2 stitches knitwise, return 2 stitches to left needle, purl together though back loops |
+yo | yarn over |
 
 
 
